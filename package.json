@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-11-color-switch",
+  "name": "goit-js-hw-11-promisification",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VeraKhomenko/goit-js-hw-11-color-switch.git"
+    "url": "git+https://github.com/VeraKhomenko/goit-js-hw-11-promisification.git"
   },
   "keywords": [],
   "author": "VeraKhomenko <pochtavkh@gmail.com>",
   "license": "MIT",
-  "homepage": "https://verakhomenko.github.io/goit-js-hw-11-color-switch",
+  "homepage": "https://verakhomenko.github.io/goit-js-hw-11-promisification",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
